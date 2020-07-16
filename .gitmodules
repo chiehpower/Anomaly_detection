@@ -1,0 +1,25 @@
+[submodule "github_repos/awesome-anomaly-detection"]
+	path = github_repos/awesome-anomaly-detection
+	url = https://github.com/hoya012/awesome-anomaly-detection
+[submodule "github_repos/AnoGAN-tf"]
+	path = github_repos/AnoGAN-tf
+	url = https://github.com/LeeDoYup/AnoGAN-tf
+[submodule "github_repos/f-AnoGAN"]
+	path = github_repos/f-AnoGAN
+	url = https://github.com/tSchlegl/f-AnoGAN
+[submodule "github_repos/anoGAN"]
+	path = github_repos/anoGAN
+	url = https://github.com/yjucho1/anoGAN
+[submodule "github_repos/pyod"]
+	path = github_repos/pyod
+	url = https://github.com/yzhao062/pyod
+[submodule "github_repos/anogan-keras"]
+	path = github_repos/anogan-keras
+	url = https://github.com/tkwoo/anogan-keras
+[submodule "github_repos/Improving_Unsupervised_Defect_Segmentation"]
+	path = github_repos/Improving_Unsupervised_Defect_Segmentation
+	url = https://github.com/cheapthrillandwine/Improving_Unsupervised_Defect_Segmentation
+[submodule "github_repos/oc-nn"]
+	path = github_repos/oc-nn
+	url = https://github.com/raghavchalapathy/oc-nn
+

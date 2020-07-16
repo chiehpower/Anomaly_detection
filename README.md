@@ -3,6 +3,14 @@
 
 For Anomaly detection researching use.
 
+## Downloading the Anomaly_detection
+
+```
+git clone -b master https://github.com/chiehpower/Anomaly_detection.git
+cd Anomaly_detection
+git submodule update --init --recursive
+```
+
 ## Managment of Github
 
 | Repository Name                                              | Reference                                                    | Framework                   | Stars |
@@ -34,3 +42,6 @@ For Anomaly detection researching use.
 | [Neural Batch Sampling with Reinforcement Learning for Semi-Supervised Anomaly Detection](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf) | 2020 |
 | [f-AnoGAN: Fast unsupervised anomaly detection with generative adversarial networks](https://www.sciencedirect.com/science/article/abs/pii/S1361841518302640) | 2019 |
 
+## MindMap
+
+- Check [here](https://shorturl.at/ltLW7)
